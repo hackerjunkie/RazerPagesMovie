@@ -1,0 +1,49 @@
+/* _content/RazerPagesMovie/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-nwwi9pnlex] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-nwwi9pnlex] {
+  color: #0077cc;
+}
+
+.btn-primary[b-nwwi9pnlex] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-nwwi9pnlex], .nav-pills .show > .nav-link[b-nwwi9pnlex] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-nwwi9pnlex] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-nwwi9pnlex] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-nwwi9pnlex] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-nwwi9pnlex] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-nwwi9pnlex] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
